@@ -26,7 +26,7 @@
 
 1. **克隆项目**
    ```bash
-   git clone https://github.com/your-username/Spring-AI-Test-FrontEnd.git
+   git clone https://github.com/LuciusWan/Spring-AI-Agent-FrontEnd.git
 
 2. **安装依赖**
    
