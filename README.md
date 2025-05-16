@@ -127,19 +127,3 @@ project-root/
 ---
 
 本项目持续优化中，欢迎提出 issue 或提交 PR 协助完善！
-
-```
----
-
-## ✅ 补充建议
-
-- 删除所有多余的代码块和重复内容。
-- 使用在线 Markdown 预览工具（如 [Typora](https://typora.io/)、[Dillinger](https://dillinger.io/)）先预览效果。
-- 不要在 Markdown 中插入太多嵌套代码块或复杂结构，避免 GitHub 解析失败。
-
----
-
-如果你已经按照上述方法修改了 `README.md` 文件，推送到 GitHub 后应该就能正常渲染显示了！
-
-如果你需要我帮你生成完整的 `README.md` 文件内容，请告诉我，我可以直接给你一个可复制的完整版本。
-```
